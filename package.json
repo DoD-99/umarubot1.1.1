@@ -1,5 +1,5 @@
 {
-	"name": "UmaruBot",
+	"name": "Mahir_BOT",
 	"version": "31.7.2",
 	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
 	"main": "mirai.js",
@@ -17,12 +17,12 @@
 		"facebook",
 		"projectmirai",
 		"messenger",
-		"mirai",
-		"catalizcs",
-		"spermlord",
+		"mahir",
+		"tahsan",
+		"Mahir",
 		"miraipr0ject"
 	],
-	"author": "John Lester",
+	"author": "Mahir Tahsan",
 	"license": "GPL-3.0",
 	"bugs": {
 		"url": "https://github.com/umaruchan0x1861/umarubot1.1.1/issues"

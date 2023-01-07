@@ -1,7 +1,7 @@
 {
-	"name": "Mahir_BOT",
+	"name": "MAHIR_BOT",
 	"version": "31.7.2",
-	"description": "A simple Facebook Messenger Bot made by me(Mahir Tahsan) and my bother Minhaj",
+	"description": "A simple Facebook Messenger Bot re-made by me (Mahir Tahsan) and my bother Minhaj",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "node index",
